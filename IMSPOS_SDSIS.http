@@ -1,0 +1,6 @@
+@IMSPOS_SDSIS_HostAddress = http://localhost:5031
+
+GET {{IMSPOS_SDSIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
